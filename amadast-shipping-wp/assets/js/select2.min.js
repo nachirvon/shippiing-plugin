@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){const{__:n}=wp.i18n;function t(e){e.selectWoo({placeholder:e.attr("placeholder")??"انتخاب کنید",language:{noResults:function(){return n("گزینه ای برای انتخاب وجود ندارد","amadast-shipping-wp")}}})}const o=e(".amdsp-select2");t(o)});
